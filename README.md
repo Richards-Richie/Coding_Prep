@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 ## Math
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
