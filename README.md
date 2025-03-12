@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Richards-Richie/Coding_Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Richards-Richie/Coding_Prep/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
