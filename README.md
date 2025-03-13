@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Richards-Richie/Coding_Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Richards-Richie/Coding_Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Richards-Richie/Coding_Prep/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
