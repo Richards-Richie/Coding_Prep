@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Richards-Richie/Coding_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 ## Counting
 |  |
