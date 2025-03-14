@@ -13,15 +13,15 @@ class Solution {
             return;
         }else{
             for(int i=n-1;i>bp;i--){
-            if(nums[bp] < nums[i]){
-                int temp=nums[i];
-                nums[i]=nums[bp];
-                nums[bp]=temp;
-                break;
+                if(nums[i] > nums[bp]){
+                    int temp=nums[i];
+                    nums[i]=nums[bp];
+                    nums[bp]=temp;
+                    break;
+                }
             }
-            Arrays.sort(nums,bp+1,n-1);
-        }
-        
+            Arrays.sort(nums,bp+1,n);
+            return;
         }
     }
 }
