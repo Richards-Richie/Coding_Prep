@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Richards-Richie/Coding_Prep/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Richards-Richie/Coding_Prep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Richards-Richie/Coding_Prep/tree/master/0073-set-matrix-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Richards-Richie/Coding_Prep/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -94,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
