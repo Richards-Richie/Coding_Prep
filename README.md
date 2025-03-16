@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
