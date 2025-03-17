@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Richards-Richie/Coding_Prep/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Richards-Richie/Coding_Prep/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
