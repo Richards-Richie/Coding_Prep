@@ -3,22 +3,18 @@ class Solution {
         int n=nums.length;
         int []ans=new int[2];
         Arrays.fill(ans,-1);
-        if( n == 0){
-            return ans;
-        }
+        boolean boolval=false;
         for(int i=0;i<n;i++){
-            if(nums[i] == target){
+            if(nums[i] == target && boolval==false){
                 ans[0]=i;
-                for(int j=i;j<n;j++){
-                    if(nums[j]!=target){
-                        ans[1]=j-1;
-                        return ans;
-                    }
-                    else if(j == n-1){
-                        ans[1]=j;
-                        return ans;
-                    }
-                }
+                boolval=true;
+            }else if(nums[i]!=target && boolval == true){
+                ans[1]=i-1;
+                return ans;
+            }
+            if(boolval == true && i == n-1){
+                ans[1]=i;
+                return ans;
             }
         }
         return ans;
