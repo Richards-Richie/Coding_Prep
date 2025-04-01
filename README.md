@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Richards-Richie/Coding_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
