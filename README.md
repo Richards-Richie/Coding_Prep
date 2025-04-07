@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Richards-Richie/Coding_Prep/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Richards-Richie/Coding_Prep/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Richards-Richie/Coding_Prep/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -93,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Richards-Richie/Coding_Prep/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Richards-Richie/Coding_Prep/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Richards-Richie/Coding_Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Richards-Richie/Coding_Prep/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -177,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
