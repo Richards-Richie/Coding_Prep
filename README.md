@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
+| [2886-faulty-keyboard](https://github.com/Richards-Richie/Coding_Prep/tree/master/2886-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2886-faulty-keyboard](https://github.com/Richards-Richie/Coding_Prep/tree/master/2886-faulty-keyboard) |
 ## Matrix
 |  |
 | ------- |
