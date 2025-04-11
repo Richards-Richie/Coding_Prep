@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Richards-Richie/Coding_Prep/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/Richards-Richie/Coding_Prep/tree/master/0782-jewels-and-stones) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
