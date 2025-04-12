@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Richards-Richie/Coding_Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
+| [2998-count-symmetric-integers](https://github.com/Richards-Richie/Coding_Prep/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Richards-Richie/Coding_Prep/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
