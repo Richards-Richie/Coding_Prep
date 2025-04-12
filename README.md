@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Richards-Richie/Coding_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Richards-Richie/Coding_Prep/tree/master/0782-jewels-and-stones) |
+| [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Richards-Richie/Coding_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
+| [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Richards-Richie/Coding_Prep/tree/master/0907-koko-eating-bananas) |
 | [1310-watering-plants](https://github.com/Richards-Richie/Coding_Prep/tree/master/1310-watering-plants) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
