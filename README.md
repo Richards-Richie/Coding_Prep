@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Richards-Richie/Coding_Prep/tree/master/0782-jewels-and-stones) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Richards-Richie/Coding_Prep/tree/master/2886-faulty-keyboard) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Richards-Richie/Coding_Prep/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
