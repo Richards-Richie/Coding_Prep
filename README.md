@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
