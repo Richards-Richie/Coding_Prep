@@ -6,12 +6,12 @@ class Solution {
         for(int i=0;i<n;i++){
             if(i == 0){
                 prevsum = nums[i];
-                ans[i]=prevsum;
+                nums[i]=prevsum;
             }else{
                 prevsum=prevsum+nums[i];
-                ans[i]=prevsum;
+                nums[i]=prevsum;
             }
         }
-        return ans;
+        return nums;
     }
 }
