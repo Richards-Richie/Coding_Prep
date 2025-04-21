@@ -1,19 +1,23 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int val=x;
-        int ans=0;
-        if(x < 0 ){
-            return false;
-        }
-        while(x != 0){
-            int temp=x%10;
-            x=x/10;
-            ans=ans*10+temp;
-            
-        }
-        if(ans == val ){
+        String input=x+""; 
+        return findpalindrome(input);
+    }
+    public boolean findpalindrome(String s){
+        int n=s.length();
+        if(n == 0){
             return true;
         }
-        return false;
+        int left =0;
+        int right=n-1;
+        while(left < right){
+            if(s.charAt(left) != s.charAt(right)){
+                return false;
+            }else{
+                left++;
+                right--;
+            }
+        }
+        return true;
     }
 }
