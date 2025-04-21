@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
+| [2249-count-the-hidden-sequences](https://github.com/Richards-Richie/Coding_Prep/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Richards-Richie/Coding_Prep/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Richards-Richie/Coding_Prep/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/1603-running-sum-of-1d-array) |
+| [2249-count-the-hidden-sequences](https://github.com/Richards-Richie/Coding_Prep/tree/master/2249-count-the-hidden-sequences) |
 ## Recursion
 |  |
 | ------- |
