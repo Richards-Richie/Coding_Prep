@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Richards-Richie/Coding_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
+| [1755-defuse-the-bomb](https://github.com/Richards-Richie/Coding_Prep/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Richards-Richie/Coding_Prep/tree/master/1310-watering-plants) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/1603-running-sum-of-1d-array) |
+| [1755-defuse-the-bomb](https://github.com/Richards-Richie/Coding_Prep/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
 | [2249-count-the-hidden-sequences](https://github.com/Richards-Richie/Coding_Prep/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
