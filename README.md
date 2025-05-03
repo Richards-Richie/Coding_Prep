@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Richards-Richie/Coding_Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
+| [2580-circular-sentence](https://github.com/Richards-Richie/Coding_Prep/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/Richards-Richie/Coding_Prep/tree/master/2886-faulty-keyboard) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Richards-Richie/Coding_Prep/tree/master/3617-find-the-original-typed-string-i) |
