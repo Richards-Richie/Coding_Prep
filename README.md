@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Richards-Richie/Coding_Prep/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/Richards-Richie/Coding_Prep/tree/master/2886-faulty-keyboard) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Richards-Richie/Coding_Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Richards-Richie/Coding_Prep/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Richards-Richie/Coding_Prep/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
 | [1755-defuse-the-bomb](https://github.com/Richards-Richie/Coding_Prep/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Richards-Richie/Coding_Prep/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
 |  |
 | ------- |
