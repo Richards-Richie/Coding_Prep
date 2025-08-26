@@ -1,23 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String input=x+""; 
-        return findpalindrome(input);
-    }
-    public boolean findpalindrome(String s){
-        int n=s.length();
-        if(n == 0){
+        int temp=x;
+        int ans =0;
+        if(temp < 0){
+            return false;
+        }
+        while(temp > 0){
+            int rem = temp % 10;
+            ans = ans*10 + rem;
+            temp=temp/10;
+        }
+        if(x == ans){
             return true;
         }
-        int left =0;
-        int right=n-1;
-        while(left < right){
-            if(s.charAt(left) != s.charAt(right)){
-                return false;
-            }else{
-                left++;
-                right--;
-            }
-        }
-        return true;
+        return false;
     }
 }
