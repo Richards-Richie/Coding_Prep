@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/Richards-Richie/Coding_Prep/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Richards-Richie/Coding_Prep/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Richards-Richie/Coding_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2249-count-the-hidden-sequences](https://github.com/Richards-Richie/Coding_Prep/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richards-Richie/Coding_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
