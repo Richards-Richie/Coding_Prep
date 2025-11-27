@@ -3,7 +3,7 @@ class Solution:
         val = 0
         ans = []
         if len(digits) == 0:
-            return val+1
+            return [val+1]
         for i in range(len(digits)):
             val = val*10+digits[i]
         val+=1
