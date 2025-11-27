@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Richards-Richie/Coding_Prep/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Richards-Richie/Coding_Prep/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Richards-Richie/Coding_Prep/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Richards-Richie/Coding_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Richards-Richie/Coding_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Richards-Richie/Coding_Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Richards-Richie/Coding_Prep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Richards-Richie/Coding_Prep/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Richards-Richie/Coding_Prep/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Richards-Richie/Coding_Prep/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Richards-Richie/Coding_Prep/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/Richards-Richie/Coding_Prep/tree/master/2998-count-symmetric-integers) |
