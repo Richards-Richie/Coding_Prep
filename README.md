@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Richards-Richie/Coding_Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Richards-Richie/Coding_Prep/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Richards-Richie/Coding_Prep/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Richards-Richie/Coding_Prep/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richards-Richie/Coding_Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Richards-Richie/Coding_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Richards-Richie/Coding_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
